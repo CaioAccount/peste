@@ -1,2 +1,2 @@
 num = float(input("digite um número: "))
-print(num)
+print(num+1)
