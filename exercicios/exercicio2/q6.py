@@ -1,4 +1,4 @@
-n = int(input("Digite um número de 4 dígitos: "))
+n = int(input("digite um número de 4 dígitos: "))
 if 1000 <= n <= 9999:
     d4 = n % 10
     d3 = (n // 10) % 10
